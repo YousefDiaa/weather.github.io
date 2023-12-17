@@ -1,0 +1,38 @@
+body {
+  background-image: url("background.png");
+}
+.head {
+  background: rgba(255, 255, 255, 0.19);
+}
+
+.main {
+  border-radius: 48px;
+  
+      background: #0000002e;
+
+  backdrop-filter: blur(16px);
+}
+.cet{
+    color: #FFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.cet2{
+    color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.text{
+    color: #FFF;
+font-family: Poppins;
+font-size: 50px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
